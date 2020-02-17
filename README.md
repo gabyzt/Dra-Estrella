@@ -15,12 +15,12 @@
     </div>
     <div class="helper"></div>
     
-    <img id="welcomeImg" imageonload="" ng-src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/6181944_1.png" ng-style="{
+    <img id="welcomeImg" imageonload="" ng-src="https://github.com/gabyzt/Dra-Estrella/blob/master/index%20file/6181944_1.png" ng-style="{
             'max-width': view.code.welcome_extra.zoom *2 || view.welcome_extra.zoom *2 + 'px',
             'max-height': view.code.welcome_extra.zoom *2 || view.welcome_extra.zoom *2 + 'px',
             'animation-iteration-count' :  view.showPreview == 'infinite' ? 'infinite' : '',
             'animation-direction' :  view.showPreview == 'infinite' ? 'alternate' : ''
-            }" src="https://raw.githubusercontent.com/gabyzt/Dra-Vicky/master/index%20file/6181944_1.png" style="max-width: 100px; max-height: 100px; display: inline;">
+            }" src="https://github.com/gabyzt/Dra-Estrella/blob/master/index%20file/6181944_1.png" style="max-width: 100px; max-height: 100px; display: inline;">
 </div>
     
 
