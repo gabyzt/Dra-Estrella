@@ -62,7 +62,7 @@
    
             <div class="sh-page">
 
-    <div class="sh-page__title ng-binding" ng-show="view.code.title" ng-class="{'sh-page__title--more-space': !view.code.description &amp;&amp; !view.code.button.label}">Dra. Virginia de los Angeles De Avila Reyes</div>
+    <div class="sh-page__title ng-binding" ng-show="view.code.title" ng-class="{'sh-page__title--more-space': !view.code.description &amp;&amp; !view.code.button.label}">Dra. Estrella Morales Palma</div>
 
     <div class="sh-page__description" ng-show="view.code.description &amp;&amp; view.code.description.length &lt;= 200"><!--
         --><span class="sh-page__description-text ng-binding">Cirujano Dentista</span>
